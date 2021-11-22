@@ -1,5 +1,5 @@
-<p><b>Resume: </b><a href="https://johnyworld.github.io/resume/" target="_blank">https://johnyworld.github.io/resume/</a></p>
-<p><b>2019 Portfolio: </b><a href="http://johnyworld.com" target="_blank">http://johnyworld.com</a></p>
+<p style="margin: 0 4px"><b>Resume: </b><a href="https://johnyworld.github.io/resume/" target="_blank">https://johnyworld.github.io/resume/</a></p>
+<p style="margin: 0 4px"><b>2019 Portfolio: </b><a href="http://johnyworld.com" target="_blank">http://johnyworld.com</a></p>
 
 <!--
 **Johnyworld/johnyworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
