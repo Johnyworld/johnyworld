@@ -1,7 +1,5 @@
-### Hi there 👋
-
-**Resume: ** https://johnyworld.github.io/resume/
-**2019 Portfolio: ** http://johnyworld.com
+<p><b>Resume: </b><a href="https://johnyworld.github.io/resume/" target="_blank">https://johnyworld.github.io/resume/</a></p>
+<p><b>2019 Portfolio: </b><a href="http://johnyworld.com" target="_blank">http://johnyworld.com</a></p>
 
 <!--
 **Johnyworld/johnyworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
