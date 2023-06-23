@@ -1,6 +1,5 @@
 <p><b>Resume: </b><a href="https://johnyworld.github.io/resume/" target="_blank">https://johnyworld.github.io/resume/</a></p>
 <p><b>Velog: </b><a href="https://velog.io/@johnyworld" target="_blank">https://velog.io/@johnyworld</a></p>
-<p><b>2019 Portfolio: </b><a href="http://johnyworld.com" target="_blank">http://johnyworld.com</a></p>
 
 
 <!--
